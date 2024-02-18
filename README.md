@@ -39,7 +39,7 @@ This repository encompasses a comprehensive Sales Analysis project focusing on t
   - The `Sales_Data` folder includes the 12 months' sales data in separate CSV files.
 
 - **Output:**
-  - The `all_data_New.csv` file stores the cleaned and merged data for reference.
+  - The `all_data.csv` file stores the cleaned and merged data for reference.
 
 ## Getting Started
 
